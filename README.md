@@ -1,6 +1,12 @@
 # TarlaPizza
 Order your pizza from TarlaPizza now :)
 
+## Prerequisites
+```bash
+sudo apt-get install python3-tk
+python3 -m pip install Pillow
+pip install pysqlite3 ```
+
 ## Installation
 Copy the following command to your terminal and hit Enter:
 ```bash
