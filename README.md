@@ -5,7 +5,8 @@ Order your pizza from TarlaPizza now :)
 ```bash
 sudo apt-get install python3-tk
 python3 -m pip install Pillow
-pip install pysqlite3 ```
+pip install pysqlite3
+```
 
 ## Installation
 Copy the following command to your terminal and hit Enter:
@@ -18,4 +19,4 @@ Execute main_pizza.py file. It will automatically create database file in your c
 ### Notes
 Default username of admin is ```admin``` and password is ```admin```. You can change it yourself, even you can generate a function to change it inside program. It's up to you. 
 
-You can extend my code and start your pizza business :)
+##### You can extend my code and start your pizza business :)
